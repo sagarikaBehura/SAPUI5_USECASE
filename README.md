@@ -189,3 +189,4 @@ Create a master-detail SAPUI5 application for order management process.
 
 
 ```
+### Detail Page
