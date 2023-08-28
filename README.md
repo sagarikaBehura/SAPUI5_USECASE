@@ -190,3 +190,4 @@ Create a master-detail SAPUI5 application for order management process.
 
 ```
 ### Detail Page
+<img width="950" alt="Detail_page" src="https://github.com/sagarikaBehura/SAPUI5_USECASE/assets/22025248/e85b873c-cbe1-4b5e-ba1f-d3d8aad8be83">
